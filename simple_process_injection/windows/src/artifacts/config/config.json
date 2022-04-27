@@ -1,0 +1,9 @@
+{
+    "name": "rivergumsecurity.process_injection_method1",
+    "id": "9388ded0-ed87-11ea-aef6-c3de8b005789",
+    "runtime_id": "DD833957-4D55-4A50-9EF3-9752EE95708F",
+    "display_name": "Simple Process Injection",
+    "description": "Performs a simple remote process injection of 64-bit shellcode. Windows calc.exe will run by default or URL parameter can point to base64 encoded custom shellcode file.",
+    "icon_filename": "64x64.png",
+    "type_flags": "CATEGORY_WORKER"
+}
