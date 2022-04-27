@@ -1,0 +1,8 @@
+{
+    "name": "scythe.proclist",
+    "id": "51caec9a-606f-c541-9895-9c289b42dca8",
+    "display_name": "proclist",
+    "description": "List Processes running on an implant. Filter by User, and PPID",
+    "icon_filename": "process.png",
+    "type_flags": "CATEGORY_WORKER"
+}
