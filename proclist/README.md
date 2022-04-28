@@ -5,13 +5,13 @@ List Processes running on an implant. Filter by User, PID, and PPID for Linux an
 ## Credits and References
 
 Author: SCYTHE/ProServe
+Operating System(s): Linux, MacOS
 
 Additional credits and references:
 
 - [simpletable](github.com/alexeyco/simpletable)
 - [gopsutil](github.com/shirou/gopsutil/process)
 - [Process Icon by Icons8](https://icons8.com)
-* A cool reference
 
 ## Installation
 

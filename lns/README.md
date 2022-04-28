@@ -5,6 +5,7 @@ LNS is a native Scythe module written in C that performs simple TCP connect scan
 ## Credits and References
 
 Author: GRIMM
+Operating System(s): Windows
 
 ## Installation
 

@@ -5,6 +5,7 @@ Enumerate member permissions, retrieve access token, or issue CLI commands. Assu
 ## Credits and References
 
 Author: SCYTHE
+Operating System(s): Windows
 
 ## Installation
 
