@@ -4,10 +4,8 @@ Performs a simple remote process injection of 64-bit shellcode. Windows calc.exe
 
 ## Credits and References
 
-Author: Joff Thyer / 
-
-Additional credits and references:
-* A cool reference
+Author: Joff Thyer
+Operating System(s): Windows
 
 ## Installation
 

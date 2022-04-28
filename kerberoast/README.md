@@ -5,6 +5,7 @@ This modules identifies executes the Kerberoast attack based on the work of Tim 
 ## Credits and References
 
 Author: Tim Medin / RedSiege 
+Operating System(s): Windows
 
 ## Installation
 
