@@ -5,6 +5,7 @@ Perform Active Directory enumeration and recon from a macOS Target.
 ## Credits and References
 
 Author: Cody Thomas, SCYTHE / ProServe
+
 Operating System(s): MacOS
 
 Additional credits and references:

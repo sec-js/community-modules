@@ -5,6 +5,7 @@ Chrome Cracker nicknamed DeSpell, is a password cracker for Google Chromes local
 ## Credits and References
 
 Author: SCYTHE
+
 Operating System(s): Windows
 
 Additional credits and references:

@@ -5,6 +5,7 @@ The Yarascan module allows users to scan files and directories with Yara rules.
 ## Credits and References
 
 Author: SCYTHE
+
 Operating System(s): Windows
 
 ## Installation

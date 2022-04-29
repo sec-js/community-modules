@@ -5,6 +5,7 @@ A macOS port to test connectivity and firewall rules for outbound connections fr
 ## Credits and References
 
 Author: SCYTHE / ProServe
+
 Operating System(s): MacOS
 
 Additional credits and references:
