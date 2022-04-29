@@ -5,6 +5,7 @@ Performs host recon on a macOs target.
 ## Credits and References
 
 Author: Cody Thomas, SCYTHE / ProServe
+
 Operating System(s): macOS
 
 Additional credits and references:

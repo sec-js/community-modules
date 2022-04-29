@@ -5,6 +5,7 @@ Execute arbitrary JavaScript for Automation on a macOS target.
 ## Credits and References
 
 Author: SCYTHE / ProServe
+
 Operating System(s): MacOS
 
 ## Installation

@@ -5,6 +5,7 @@ Run unmanaged `bash` and `shell` scripts from memory without invoking `bash -c`.
 ## Credits and References
 
 Author: SCYTHE / ProServe
+
 Operating System(s): Linux
 
 ## Installation

@@ -5,6 +5,7 @@ The Process Hollowing module replaces a target process with a new executable ima
 ## Credits and References
 
 Author: SCYTHE
+
 Operating System(s): Windows
 
 ## Installation

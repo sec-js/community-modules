@@ -5,6 +5,7 @@ The AWS module assumes the AWS CLI is pre-installed on the system. Use this modu
 ## Credits and References
 
 Author: SCYTHE
+
 Operating System(s): Windows
 
 ## Installation

@@ -5,6 +5,7 @@ This Azure module assumes the Azure CLI is pre-installed on the system and provi
 ## Credits and References
 
 Author: SCYTHE
+
 Operating System(s): Windows
 
 ## Installation
