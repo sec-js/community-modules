@@ -1,0 +1,18 @@
+﻿  invoke_bof.c
+C:\Users\brandon_radosevich\Desktop\modules\native\invoke_bof\windows\src\invoke_bof.c(99,20): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\brandon_radosevich\Desktop\modules\native\invoke_bof\windows\src\invoke_bof.c(103,39): warning C4013: 'getContents' undefined; assuming extern returning int
+C:\Users\brandon_radosevich\Desktop\modules\native\invoke_bof\windows\src\invoke_bof.c(103,62): warning C4312: 'type cast': conversion from 'int' to 'char *' of greater size
+C:\Users\brandon_radosevich\Desktop\modules\native\invoke_bof\windows\src\invoke_bof.c(111,35): warning C4090: 'function': different 'const' qualifiers
+C:\Users\brandon_radosevich\Desktop\modules\native\invoke_bof\windows\src\invoke_bof.c(111,73): warning C4047: 'function': 'uint32_t' differs in levels of indirection from 'uint32_t *'
+C:\Users\brandon_radosevich\Desktop\modules\native\invoke_bof\windows\src\invoke_bof.c(111,64): warning C4024: 'RunCOFF': different types for formal and actual parameter 3
+C:\Users\brandon_radosevich\Desktop\modules\native\invoke_bof\windows\src\invoke_bof.c(114,25): warning C4047: 'function': 'char **' differs in levels of indirection from 'ERROR_T *'
+C:\Users\brandon_radosevich\Desktop\modules\native\invoke_bof\windows\src\invoke_bof.c(114,18): warning C4024: 'asprintf': different types for formal and actual parameter 1
+     Creating library C:\Users\brandon_radosevich\Desktop\modules\native\invoke_bof\windows\bin\x64\Release\staging\invoke_bof.lib and object C:\Users\brandon_radosevich\Desktop\modules\native\invoke_bof\windows\bin\x64\Release\staging\invoke_bof.exp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 58 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  invoke_bof.vcxproj -> C:\Users\brandon_radosevich\Desktop\modules\native\invoke_bof\windows\bin\x64\Release\staging\invoke_bof.dll
+  A subdirectory or file C:\Users\brandon_radosevich\Desktop\modules\native\invoke_bof\windows\\obj\package\windows\x64 already exists.
+  C:\Users\brandon_radosevich\Desktop\modules\native\invoke_bof\windows\\bin\x64\Release\staging\invoke_bof.dll
+          1 file(s) copied.

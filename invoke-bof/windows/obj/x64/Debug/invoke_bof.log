@@ -1,0 +1,13 @@
+﻿  invoke_bof.c
+C:\Users\brandon_radosevich\Desktop\modules\native\invoke_bof\windows\src\invoke_bof.c(96,51): warning C4090: 'function': different 'const' qualifiers
+C:\Users\brandon_radosevich\Desktop\modules\native\invoke_bof\windows\src\invoke_bof.c(96,64): warning C4047: 'function': 'PDWORD' differs in levels of indirection from 'int'
+C:\Users\brandon_radosevich\Desktop\modules\native\invoke_bof\windows\src\invoke_bof.c(96,54): warning C4024: 'DecodeBase64String': different types for formal and actual parameter 2
+C:\Users\brandon_radosevich\Desktop\modules\native\invoke_bof\windows\src\invoke_bof.c(101,26): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\brandon_radosevich\Desktop\modules\native\invoke_bof\windows\src\invoke_bof.c(105,31): warning C4090: 'function': different 'const' qualifiers
+C:\Users\brandon_radosevich\Desktop\modules\native\invoke_bof\windows\src\invoke_bof.c(105,54): warning C4047: 'function': 'unsigned char *' differs in levels of indirection from 'unsigned char **'
+C:\Users\brandon_radosevich\Desktop\modules\native\invoke_bof\windows\src\invoke_bof.c(105,44): warning C4024: 'getContents': different types for formal and actual parameter 3
+C:\Users\brandon_radosevich\Desktop\modules\native\invoke_bof\windows\src\invoke_bof.c(114,35): warning C4090: 'function': different 'const' qualifiers
+C:\Users\brandon_radosevich\Desktop\modules\native\invoke_bof\windows\src\invoke_bof.c(118,25): warning C4047: 'function': 'char **' differs in levels of indirection from 'ERROR_T *'
+C:\Users\brandon_radosevich\Desktop\modules\native\invoke_bof\windows\src\invoke_bof.c(118,18): warning C4024: 'asprintf': different types for formal and actual parameter 1
+C:\Users\brandon_radosevich\Desktop\modules\native\invoke_bof\windows\src\invoke_bof.c(93,1): warning C4047: 'initializing': 'size_t' differs in levels of indirection from 'void *'
+  invoke_bof.vcxproj -> C:\Users\brandon_radosevich\Desktop\modules\native\invoke_bof\windows\bin\x64\Debug\staging\invoke_bof.dll
