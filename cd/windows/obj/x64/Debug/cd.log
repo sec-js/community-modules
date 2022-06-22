@@ -1,0 +1,8 @@
+﻿  cd.c
+C:\Users\brandon_radosevich\Desktop\modules\native\cd\windows\src\cd.c(64,16): warning C4133: 'function': incompatible types - from 'WCHAR *' to 'const char *'
+C:\Users\brandon_radosevich\Desktop\modules\native\cd\windows\src\cd.c(68,17): warning C4133: 'function': incompatible types - from 'TCHAR [260]' to 'const char *'
+C:\Users\brandon_radosevich\Desktop\modules\native\cd\windows\src\cd.c(56,1): warning C4133: 'initializing': incompatible types - from 'char *' to 'WCHAR *'
+C:\Users\brandon_radosevich\Desktop\modules\native\cd\windows\src\cd.c(54,19): warning C4101: 'p': unreferenced local variable
+  LINK : C:\Users\brandon_radosevich\Desktop\modules\native\cd\windows\bin\x64\Debug\staging\cd.dll not found or not built by the last incremental link; performing full link
+     Creating library C:\Users\brandon_radosevich\Desktop\modules\native\cd\windows\bin\x64\Debug\staging\cd.lib and object C:\Users\brandon_radosevich\Desktop\modules\native\cd\windows\bin\x64\Debug\staging\cd.exp
+  cd.vcxproj -> C:\Users\brandon_radosevich\Desktop\modules\native\cd\windows\bin\x64\Debug\staging\cd.dll

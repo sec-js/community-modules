@@ -1,0 +1,1 @@
+{"operating_system":"windows","runtime":"native","cpu_architecture":["x86","x64"],"module_type":"capability","company_name":"scythe","module_name":"cd","uuid":"49a111b0-ed72-11ec-8bfb-6135dc75d234","module_display_name":"cd","module_description":"Change Directory of Parent Process via Win32 API","module_icon_filename":"icons8-cloud-media-77.png"}
