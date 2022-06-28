@@ -1,0 +1,8 @@
+{
+    "name": "scythe.cd",
+    "id": "49a111b0-ed72-11ec-8bfb-6135dc75d234",
+    "display_name": "cd",
+    "description": "Change Directory of Parent Process via Win32 API",
+    "icon_filename": "icons8-cloud-media-77.png",
+    "type_flags": "CATEGORY_WORKER"
+}
