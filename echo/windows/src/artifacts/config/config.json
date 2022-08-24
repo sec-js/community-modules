@@ -1,0 +1,8 @@
+{
+    "name": "scythe.echo",
+    "id": "5d519870-2250-11ed-82f7-5929505ce15b",
+    "display_name": "echo",
+    "description": "Prints a string as output in the SCYTHE Campaign results. This is useful for adding comments to logs and displaying variables.",
+    "icon_filename": "default_module_icon.png",
+    "type_flags": "CATEGORY_WORKER"
+}
